@@ -1,0 +1,37 @@
+{
+    "geometry": "950x850+753+461",
+    "theme": "跟随系统",
+    "url": "",
+    "cmd": "sync-creator",
+    "save_path": "E:\\项目",
+    "tk_vars": {
+        "KTOOLBOX_JOB__POST_DIRNAME_FORMAT": "{published}_{title}",
+        "KTOOLBOX_JOB__MIX_POSTS": false,
+        "KTOOLBOX_JOB__SEQUENTIAL_FILENAME": true,
+        "KTOOLBOX_JOB__FILENAME_FORMAT": "{}",
+        "KTOOLBOX_JOB__SEQUENTIAL_FILENAME_EXCLUDES": "",
+        "KTOOLBOX_JOB__GROUP_BY_YEAR": false,
+        "KTOOLBOX_JOB__GROUP_BY_MONTH": false,
+        "KTOOLBOX_JOB__BLOCK_LIST": "",
+        "KTOOLBOX_JOB__ALLOW_LIST": "",
+        "KTOOLBOX_JOB__COUNT": "4",
+        "KTOOLBOX_DOWNLOADER__TPS_LIMIT": "5.0",
+        "KTOOLBOX_DOWNLOADER__TIMEOUT": "30.0",
+        "KTOOLBOX_DOWNLOADER__RETRY_TIMES": "10",
+        "KTOOLBOX_API__RETRY_INTERVAL": "2.0",
+        "KTOOLBOX_API__SESSION_KEY": ""
+    },
+    "cli_vars": {
+        "length": "",
+        "offset": "",
+        "start-time": "",
+        "end-time": "",
+        "keywords": "",
+        "keywords-exclude": ""
+    },
+    "custom_vars": {
+        "no_attachments": true,
+        "dump_json": false,
+        "show_adv": false
+    }
+}
